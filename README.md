@@ -30,5 +30,5 @@ Collection Details Page -> Displays the products within a specific collection al
 
   <img src="https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.11.06%20AM.png" width="280" height="450" alt="Collection Details page" hspace="20">
 
-  <img src="https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.11.22%20AM.png" width="280" height="450" alt="Collection Details page" hspace="20">
+  <img src="https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.41.03%20AM.png" width="280" height="450" alt="Collection Details page" hspace="20">
 </p>
