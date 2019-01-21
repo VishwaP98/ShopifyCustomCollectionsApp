@@ -13,9 +13,7 @@ Collection Details Page -> Displays the products within a specific collection al
 
 ## Realm -> Database
    For local database, I used Realm as it stores objects, has ability to create relationships, and very easy to read and write
-   a lot of different options
-   
-   ### Realm has listeners that can be used to get the results of its query or write commands when ran asynchronously which makes the development very maintainable and easy to update
+   a lot of different options. Moreover, Realm has listeners that can be used to get the results of its query or write commands when ran asynchronously which makes the development very maintainable and easy to update
 
 ## Retrofit -> REST client for Java and Android
    Retrofit makes it very easy to consume JSON data from a REST based webservice
