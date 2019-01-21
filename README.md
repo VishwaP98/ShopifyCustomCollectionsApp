@@ -1,4 +1,4 @@
-# ShopifyCustomCollectionsApp
+# Shopify Custom Collections App
 
 An application for Shopify Merchants to view their collections and get more information on the products within those
 collections.
