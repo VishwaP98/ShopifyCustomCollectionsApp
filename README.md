@@ -24,3 +24,5 @@ Collection Details Page -> Displays the products within a specific collection al
    Glide is very useful in its various strategies for caching the images with ability to store the original image
    fetched or the one being used by the app or both or neither of them.
    Glide's image caching comes out of the box so never have to worry about it not caching if not told to do so.
+
+![alt text](https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.10.36%20AM.png)
