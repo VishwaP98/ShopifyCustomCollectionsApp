@@ -25,4 +25,10 @@ Collection Details Page -> Displays the products within a specific collection al
    fetched or the one being used by the app or both or neither of them.
    Glide's image caching comes out of the box so never have to worry about it not caching if not told to do so.
 
-![alt text](https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.10.36%20AM.png)
+<p float="left">
+  <img src="https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.10.36%20AM.png" width="280" height="450" alt="Custom Collections page" hspace="20">
+
+  <img src="https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.11.06%20AM.png" width="280" height="450" alt="Collection Details page" hspace="20">
+
+  <img src="https://github.com/VishwaP98/ShopifyCustomCollectionsApp/blob/master/Screen%20Shot%202019-01-21%20at%204.11.22%20AM.png" width="280" height="450" alt="Collection Details page" hspace="20">
+</p>
